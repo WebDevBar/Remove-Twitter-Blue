@@ -1,0 +1,10 @@
+{
+  "name": "Remove Twitter Blue",
+  "description": "Removes the twitter blue item from the Twitter menu on desktop.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "remove-twitter-blue.html",
+    "default_icon": "remove-twitter-blue.png"
+  }
+}
