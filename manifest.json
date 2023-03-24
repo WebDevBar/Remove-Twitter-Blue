@@ -1,12 +1,17 @@
 {
   "name": "Remove Twitter Blue",
-  "description": "Removes the twitter blue item from the Twitter menu on desktop.",
+  "description": "Removes the twitter blue item from the Twitter menu on the Twitter website.",
   "author": "www.WebDevBar.com",
   "homepage_url": "https://github.com/WebDevBar/Remove-Twitter-Blue",
   "version": "1.0",
   "manifest_version": 3,
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
   "action": {
-    "default_popup": "remove-twitter-blue.html",
     "default_icon": "remove-twitter-blue.png"
   },
   "content_scripts": [
