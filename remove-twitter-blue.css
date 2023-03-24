@@ -1,0 +1,7 @@
+nav a[aria-label='Twitter Blue'],
+nav a[aria-label='Twitter Blue'],
+nav a[href^='/i/twitter_blue_sign_up'],
+nav a[href^='/i/twitter_blue_sign_up'] {
+	display: none!important;
+	pointer-events: none!important;
+}
