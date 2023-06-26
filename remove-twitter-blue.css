@@ -1,6 +1,7 @@
 nav a[aria-label='Twitter Blue'],
 nav a[aria-label='Verified Organizations'],
 nav a[href^='/i/twitter_blue_sign_up'],
+nav a[href^='/i/verified-choose'],
 nav a[href^='/i/verified-orgs-signup'] {
 	display: none!important;
 	pointer-events: none!important;
